@@ -1,0 +1,19 @@
+{
+  "name": "a-wapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vira777Lv/A-WAPP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vira777Lv/A-WAPP/issues"
+  },
+  "homepage": "https://Vira777Lv.github.io/A-WAPP/"
+}

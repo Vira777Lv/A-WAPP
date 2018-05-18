@@ -1,0 +1,58 @@
+/* raleway */
+@font-face {
+  font-family: 'Raleway-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/Raleway-Regular.ttf') format('truetype')
+}
+
+@font-face {
+  font-family: 'Raleway-Medium';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../assets/fonts/Raleway-Medium.ttf') format('truetype')
+}
+
+@font-face {
+  font-family: 'Raleway-SemiBold';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../assets/fonts/Raleway-SemiBold.ttf') format('truetype')
+}
+
+@font-face {
+  font-family: 'Raleway-Bold';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../assets/fonts/Raleway-Bold.ttf') format('truetype')
+}
+
+/* open sans */
+
+@font-face {
+  font-family: 'OpenSans-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/OpenSans-Regular.ttf') format('truetype')
+}
+
+@font-face {
+  font-family: 'OpenSans-SemiBold';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../assets/fonts/OpenSans-SemiBold.ttf') format('truetype')
+}
+/* lato */
+@font-face {
+  font-family: 'Lato-Black';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../assets/fonts/Lato-Black.ttf') format('truetype')
+}
+/* raavi */
+@font-face {
+  font-family: 'Raavi';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../assets/fonts/raavi.ttf') format('truetype')
+}
