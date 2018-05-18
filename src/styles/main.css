@@ -73,7 +73,6 @@
   justify-content: center;
   background: url("../assets/img/gallery-bg.jpg") no-repeat center/cover;
   color: #fff;
-  border: 1px solid green;
 }
 
 .gallery-titles {
@@ -105,6 +104,10 @@
 }
 
 /* carousel */
+
+.user-reviews {
+  background: #eff3f3;
+}
 
 .carousel {
   display: flex;
